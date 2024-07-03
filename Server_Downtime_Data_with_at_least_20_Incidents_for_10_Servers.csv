@@ -1,0 +1,201 @@
+,Server Name,Downtime (Minutes),Date,Failure Description
+0,ServerSVE,201,2024-02-25,High CPU usage
+63,ServerGII,259,2024-04-20,Network connectivity issues
+66,ServerTXJ,83,2023-07-31,Minor configuration error
+67,ServerXIT,168,2024-04-28,Hardware failure
+68,ServerGCJ,57,2023-08-15,Hardware failure
+69,ServerREE,85,2023-08-10,Power outage
+70,ServerWES,187,2023-12-21,Disk failure
+71,ServerDOJ,269,2024-05-28,Network congestion
+72,ServerLYL,241,2023-08-22,High CPU usage
+73,ServerPUQ,157,2023-11-23,Application failure
+0,ServerSVE,201,2024-02-25,High CPU usage
+0,ServerSVE,201,2024-02-25,High CPU usage
+0,ServerSVE,201,2024-02-25,High CPU usage
+0,ServerSVE,201,2024-02-25,High CPU usage
+0,ServerSVE,201,2024-02-25,High CPU usage
+0,ServerSVE,201,2024-02-25,High CPU usage
+0,ServerSVE,201,2024-02-25,High CPU usage
+0,ServerSVE,201,2024-02-25,High CPU usage
+0,ServerSVE,201,2024-02-25,High CPU usage
+0,ServerSVE,201,2024-02-25,High CPU usage
+0,ServerSVE,201,2024-02-25,High CPU usage
+0,ServerSVE,201,2024-02-25,High CPU usage
+0,ServerSVE,201,2024-02-25,High CPU usage
+0,ServerSVE,201,2024-02-25,High CPU usage
+0,ServerSVE,201,2024-02-25,High CPU usage
+0,ServerSVE,201,2024-02-25,High CPU usage
+0,ServerSVE,201,2024-02-25,High CPU usage
+0,ServerSVE,201,2024-02-25,High CPU usage
+0,ServerSVE,201,2024-02-25,High CPU usage
+63,ServerGII,259,2024-04-20,Network connectivity issues
+63,ServerGII,259,2024-04-20,Network connectivity issues
+63,ServerGII,259,2024-04-20,Network connectivity issues
+63,ServerGII,259,2024-04-20,Network connectivity issues
+63,ServerGII,259,2024-04-20,Network connectivity issues
+63,ServerGII,259,2024-04-20,Network connectivity issues
+63,ServerGII,259,2024-04-20,Network connectivity issues
+63,ServerGII,259,2024-04-20,Network connectivity issues
+63,ServerGII,259,2024-04-20,Network connectivity issues
+63,ServerGII,259,2024-04-20,Network connectivity issues
+63,ServerGII,259,2024-04-20,Network connectivity issues
+63,ServerGII,259,2024-04-20,Network connectivity issues
+63,ServerGII,259,2024-04-20,Network connectivity issues
+63,ServerGII,259,2024-04-20,Network connectivity issues
+63,ServerGII,259,2024-04-20,Network connectivity issues
+63,ServerGII,259,2024-04-20,Network connectivity issues
+63,ServerGII,259,2024-04-20,Network connectivity issues
+63,ServerGII,259,2024-04-20,Network connectivity issues
+63,ServerGII,259,2024-04-20,Network connectivity issues
+73,ServerPUQ,157,2023-11-23,Application failure
+73,ServerPUQ,157,2023-11-23,Application failure
+73,ServerPUQ,157,2023-11-23,Application failure
+73,ServerPUQ,157,2023-11-23,Application failure
+73,ServerPUQ,157,2023-11-23,Application failure
+73,ServerPUQ,157,2023-11-23,Application failure
+73,ServerPUQ,157,2023-11-23,Application failure
+73,ServerPUQ,157,2023-11-23,Application failure
+73,ServerPUQ,157,2023-11-23,Application failure
+73,ServerPUQ,157,2023-11-23,Application failure
+73,ServerPUQ,157,2023-11-23,Application failure
+73,ServerPUQ,157,2023-11-23,Application failure
+73,ServerPUQ,157,2023-11-23,Application failure
+73,ServerPUQ,157,2023-11-23,Application failure
+73,ServerPUQ,157,2023-11-23,Application failure
+73,ServerPUQ,157,2023-11-23,Application failure
+73,ServerPUQ,157,2023-11-23,Application failure
+73,ServerPUQ,157,2023-11-23,Application failure
+73,ServerPUQ,157,2023-11-23,Application failure
+72,ServerLYL,241,2023-08-22,High CPU usage
+72,ServerLYL,241,2023-08-22,High CPU usage
+72,ServerLYL,241,2023-08-22,High CPU usage
+72,ServerLYL,241,2023-08-22,High CPU usage
+72,ServerLYL,241,2023-08-22,High CPU usage
+72,ServerLYL,241,2023-08-22,High CPU usage
+72,ServerLYL,241,2023-08-22,High CPU usage
+72,ServerLYL,241,2023-08-22,High CPU usage
+72,ServerLYL,241,2023-08-22,High CPU usage
+72,ServerLYL,241,2023-08-22,High CPU usage
+72,ServerLYL,241,2023-08-22,High CPU usage
+72,ServerLYL,241,2023-08-22,High CPU usage
+72,ServerLYL,241,2023-08-22,High CPU usage
+72,ServerLYL,241,2023-08-22,High CPU usage
+72,ServerLYL,241,2023-08-22,High CPU usage
+72,ServerLYL,241,2023-08-22,High CPU usage
+72,ServerLYL,241,2023-08-22,High CPU usage
+72,ServerLYL,241,2023-08-22,High CPU usage
+72,ServerLYL,241,2023-08-22,High CPU usage
+71,ServerDOJ,269,2024-05-28,Network congestion
+71,ServerDOJ,269,2024-05-28,Network congestion
+71,ServerDOJ,269,2024-05-28,Network congestion
+71,ServerDOJ,269,2024-05-28,Network congestion
+71,ServerDOJ,269,2024-05-28,Network congestion
+71,ServerDOJ,269,2024-05-28,Network congestion
+71,ServerDOJ,269,2024-05-28,Network congestion
+71,ServerDOJ,269,2024-05-28,Network congestion
+71,ServerDOJ,269,2024-05-28,Network congestion
+71,ServerDOJ,269,2024-05-28,Network congestion
+71,ServerDOJ,269,2024-05-28,Network congestion
+71,ServerDOJ,269,2024-05-28,Network congestion
+71,ServerDOJ,269,2024-05-28,Network congestion
+71,ServerDOJ,269,2024-05-28,Network congestion
+71,ServerDOJ,269,2024-05-28,Network congestion
+71,ServerDOJ,269,2024-05-28,Network congestion
+71,ServerDOJ,269,2024-05-28,Network congestion
+71,ServerDOJ,269,2024-05-28,Network congestion
+71,ServerDOJ,269,2024-05-28,Network congestion
+70,ServerWES,187,2023-12-21,Disk failure
+70,ServerWES,187,2023-12-21,Disk failure
+70,ServerWES,187,2023-12-21,Disk failure
+70,ServerWES,187,2023-12-21,Disk failure
+70,ServerWES,187,2023-12-21,Disk failure
+70,ServerWES,187,2023-12-21,Disk failure
+70,ServerWES,187,2023-12-21,Disk failure
+70,ServerWES,187,2023-12-21,Disk failure
+70,ServerWES,187,2023-12-21,Disk failure
+70,ServerWES,187,2023-12-21,Disk failure
+70,ServerWES,187,2023-12-21,Disk failure
+70,ServerWES,187,2023-12-21,Disk failure
+70,ServerWES,187,2023-12-21,Disk failure
+70,ServerWES,187,2023-12-21,Disk failure
+70,ServerWES,187,2023-12-21,Disk failure
+70,ServerWES,187,2023-12-21,Disk failure
+70,ServerWES,187,2023-12-21,Disk failure
+70,ServerWES,187,2023-12-21,Disk failure
+70,ServerWES,187,2023-12-21,Disk failure
+69,ServerREE,85,2023-08-10,Power outage
+69,ServerREE,85,2023-08-10,Power outage
+69,ServerREE,85,2023-08-10,Power outage
+69,ServerREE,85,2023-08-10,Power outage
+69,ServerREE,85,2023-08-10,Power outage
+69,ServerREE,85,2023-08-10,Power outage
+69,ServerREE,85,2023-08-10,Power outage
+69,ServerREE,85,2023-08-10,Power outage
+69,ServerREE,85,2023-08-10,Power outage
+69,ServerREE,85,2023-08-10,Power outage
+69,ServerREE,85,2023-08-10,Power outage
+69,ServerREE,85,2023-08-10,Power outage
+69,ServerREE,85,2023-08-10,Power outage
+69,ServerREE,85,2023-08-10,Power outage
+69,ServerREE,85,2023-08-10,Power outage
+69,ServerREE,85,2023-08-10,Power outage
+69,ServerREE,85,2023-08-10,Power outage
+69,ServerREE,85,2023-08-10,Power outage
+69,ServerREE,85,2023-08-10,Power outage
+68,ServerGCJ,57,2023-08-15,Hardware failure
+68,ServerGCJ,57,2023-08-15,Hardware failure
+68,ServerGCJ,57,2023-08-15,Hardware failure
+68,ServerGCJ,57,2023-08-15,Hardware failure
+68,ServerGCJ,57,2023-08-15,Hardware failure
+68,ServerGCJ,57,2023-08-15,Hardware failure
+68,ServerGCJ,57,2023-08-15,Hardware failure
+68,ServerGCJ,57,2023-08-15,Hardware failure
+68,ServerGCJ,57,2023-08-15,Hardware failure
+68,ServerGCJ,57,2023-08-15,Hardware failure
+68,ServerGCJ,57,2023-08-15,Hardware failure
+68,ServerGCJ,57,2023-08-15,Hardware failure
+68,ServerGCJ,57,2023-08-15,Hardware failure
+68,ServerGCJ,57,2023-08-15,Hardware failure
+68,ServerGCJ,57,2023-08-15,Hardware failure
+68,ServerGCJ,57,2023-08-15,Hardware failure
+68,ServerGCJ,57,2023-08-15,Hardware failure
+68,ServerGCJ,57,2023-08-15,Hardware failure
+68,ServerGCJ,57,2023-08-15,Hardware failure
+67,ServerXIT,168,2024-04-28,Hardware failure
+67,ServerXIT,168,2024-04-28,Hardware failure
+67,ServerXIT,168,2024-04-28,Hardware failure
+67,ServerXIT,168,2024-04-28,Hardware failure
+67,ServerXIT,168,2024-04-28,Hardware failure
+67,ServerXIT,168,2024-04-28,Hardware failure
+67,ServerXIT,168,2024-04-28,Hardware failure
+67,ServerXIT,168,2024-04-28,Hardware failure
+67,ServerXIT,168,2024-04-28,Hardware failure
+67,ServerXIT,168,2024-04-28,Hardware failure
+67,ServerXIT,168,2024-04-28,Hardware failure
+67,ServerXIT,168,2024-04-28,Hardware failure
+67,ServerXIT,168,2024-04-28,Hardware failure
+67,ServerXIT,168,2024-04-28,Hardware failure
+67,ServerXIT,168,2024-04-28,Hardware failure
+67,ServerXIT,168,2024-04-28,Hardware failure
+67,ServerXIT,168,2024-04-28,Hardware failure
+67,ServerXIT,168,2024-04-28,Hardware failure
+67,ServerXIT,168,2024-04-28,Hardware failure
+66,ServerTXJ,83,2023-07-31,Minor configuration error
+66,ServerTXJ,83,2023-07-31,Minor configuration error
+66,ServerTXJ,83,2023-07-31,Minor configuration error
+66,ServerTXJ,83,2023-07-31,Minor configuration error
+66,ServerTXJ,83,2023-07-31,Minor configuration error
+66,ServerTXJ,83,2023-07-31,Minor configuration error
+66,ServerTXJ,83,2023-07-31,Minor configuration error
+66,ServerTXJ,83,2023-07-31,Minor configuration error
+66,ServerTXJ,83,2023-07-31,Minor configuration error
+66,ServerTXJ,83,2023-07-31,Minor configuration error
+66,ServerTXJ,83,2023-07-31,Minor configuration error
+66,ServerTXJ,83,2023-07-31,Minor configuration error
+66,ServerTXJ,83,2023-07-31,Minor configuration error
+66,ServerTXJ,83,2023-07-31,Minor configuration error
+66,ServerTXJ,83,2023-07-31,Minor configuration error
+66,ServerTXJ,83,2023-07-31,Minor configuration error
+66,ServerTXJ,83,2023-07-31,Minor configuration error
+66,ServerTXJ,83,2023-07-31,Minor configuration error
+66,ServerTXJ,83,2023-07-31,Minor configuration error
